@@ -45,8 +45,8 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 
 ## Voortgang/Feedback 1
 
-<details open>
-<summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+<details>
+  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
@@ -75,9 +75,8 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 ## Voortgang/Feedback 2
 
 <details>
-<summary>Wijzigingen na 2e feedback</summary>
-
-Mijn bevindingen + wijzigingen (minimaal 5):
+  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  
   ### Bevinding 1:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
 
@@ -104,9 +103,8 @@ Mijn bevindingen + wijzigingen (minimaal 5):
 ## Voortgang/Feedback 3
 
 <details>
-<summary>Wijzigingen na 3e feedback</summary>
-
-Mijn bevindingen + wijzigingen (minimaal 5):
+  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  
   ### Bevinding 1:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
 
