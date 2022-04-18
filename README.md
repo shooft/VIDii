@@ -52,7 +52,11 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 <details open>
 <summary>Wijzigingen na 1e feedback</summary>
 
-Mijn bevindingen + wijzigingen (minimaal 5):
+
+  Mijn bevindingen + wijzigingen (minimaal 5):
+  
+  
+  
   ### Bevinding 1:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
 
