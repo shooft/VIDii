@@ -22,14 +22,10 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 
 
 
-
+# Je plan
 
 <details open>
-  <summary>
-    <h2>Je plan</h2>
-    <p>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging<p>
-  </summary>
-
+  <summary>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging</summary>
 
   ### De eerste versie/schets:
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="eerste versie/schets">
@@ -50,13 +46,8 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 ## Voortgang/Feedback 1
 
 <details open>
-<summary>Wijzigingen na 1e feedback</summary>
+<summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
-
-  Mijn bevindingen + wijzigingen (minimaal 5):
-  
-  
-  
   ### Bevinding 1:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
 
