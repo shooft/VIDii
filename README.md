@@ -29,7 +29,7 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 
 
   ### Je storyboard:
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="eerste versie/schets">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="eerste versie/schets">
 
 
   ### Je ambitie: 
@@ -139,19 +139,19 @@ Mijn bevindingen + wijzigingen (minimaal 5):
   <summary>Mijn eindresultaat & persoonlijke ontwikkeling</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="uitkomst opdracht 2">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="final ontwerp">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatje(s)
 
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="top">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatje(s)
 
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="bummer">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
 
 
