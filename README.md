@@ -26,12 +26,12 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 
 <details open>
   <summary>
-    ## Je plan
-    De eerste versie/schets van je ontwerp & je persoonlijke uitdaging
+    <h2>Je plan</h2>
+    <p>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging<p>
   </summary>
 
 
-  ### Je storyboard:
+  ### De eerste versie/schets:
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="eerste versie/schets">
 
 
