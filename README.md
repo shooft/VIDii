@@ -9,7 +9,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-
 ## Jij
 
 ### Ontwerper:
@@ -17,7 +16,6 @@ Sanne 't Hooft (vervangen door jouw naam)
 
 #### Je startniveau:
 Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
-
 
 
 
@@ -100,6 +98,7 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 
 
 
+
 ## Voortgang/Feedback 3
 
 <details>
@@ -149,7 +148,6 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
-
 
 
 
