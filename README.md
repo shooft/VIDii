@@ -1,6 +1,6 @@
-* Basiswebsite voor Interface en Interactie
+# Basiswebsite voor Interface en Interactie
 
-** dingen om te doen
+## dingen om te doen
 
 - Zet GitHub pages aan.
 - Plak een link naar je GitHub pages in het about blokje (rechtsboven)
