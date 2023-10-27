@@ -1,4 +1,5 @@
 # Basiswebsite voor Interface en Interactie
+Een mooie basis met mapjes, html, css en js die goed aan elkaar gelinkt zijn.
 
 ## dingen om te doen
 
