@@ -1,6 +1,6 @@
-/*************/
-/* CSS RESET */
-/*************/
+/**************/
+/* CSS REMEDY */
+/**************/
 
 /* naar een idee van Jen Simmons */
 *, *::after, *::before {
@@ -15,6 +15,10 @@ button:not([disabled]) {
   cursor:pointer;
 }
 
+img {
+  max-width:100%;
+}
+
 
 
 
@@ -25,6 +29,8 @@ button:not([disabled]) {
 
 :root {
   --color-headings:crimson
+  /* ... */
+
 }
 
 
@@ -38,7 +44,6 @@ button:not([disabled]) {
 h1 {
   color:var(--color-headings);
 }
-
 
 /* ... */
 
